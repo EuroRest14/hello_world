@@ -1,3 +1,5 @@
 hello
 hello msu
 hello it msu
+hello world
+hello thailand
